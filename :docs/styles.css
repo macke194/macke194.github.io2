@@ -1,0 +1,45 @@
+body {
+  font-family: "Futura", sans-serif;
+  background-color: #708090
+}
+
+span {
+  color: 	#8B0000;
+
+}
+h1 {
+  color:#FFFFFF;
+}
+h2 {
+  color:	#000000;
+}
+h3 {
+  color: 	#8B0000;
+}
+h4 {
+  color:	#000000;
+}
+
+#contact {
+  background-color: #708090;
+  padding: 3%;
+}
+
+
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.images
+{
+display:inline-block;
+margin: 0px;
+padding: 0px;
+}
+#band
+
+*{
+    float:right;
+}
